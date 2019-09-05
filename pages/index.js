@@ -3,6 +3,7 @@ import React from 'react'
 import { Container, Row, Col, Button, Jumbotron, ListGroup, ListGroupItem } from 'reactstrap'
 import Page from '../components/page'
 import Layout from '../components/layout'
+import Buggy from "../components/buggy";
 
 export default class extends Page {
   render() {
@@ -18,7 +19,7 @@ export default class extends Page {
               <span style={{fontWeight: 600}}>
                 <span className="mr-3">▲</span>
                 <br className="v-block d-sm-none"/>
-                Next.js
+                <Buggy />
               </span>
               <br className="v-block d-lg-none"/> Starter Project
             </h1>
