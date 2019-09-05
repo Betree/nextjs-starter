@@ -18,7 +18,7 @@
     "jquery": "^3.2.1",
     "mongodb": "^3.1.10",
     "nedb": "^1.8.0",
-    "next": "^7.0.2",
+    "next": "^9.0.5",
     "next-auth": "^1.12.1",
     "node-sass": "^4.11.0",
     "nodemailer": "^4.7.0",
@@ -29,14 +29,15 @@
     "passport-twitter": "^1.0.4",
     "popper.js": "^1.14.6",
     "raw-loader": "^0.5.1",
-    "react": "^16.7.0",
+    "react": "^16.9.0",
     "react-bootstrap-table": "^4.3.1",
-    "react-dom": "^16.7.0",
+    "react-dom": "^16.9.0",
     "react-syntax-highlighter": "^10.1.2",
     "react-transition-group": "^2.5.1",
     "reactstrap": "^6.5.0",
     "sass-loader": "^7.1.0",
-    "universal-cookie": "^3.0.7"
+    "universal-cookie": "^3.0.7",
+    "uuid": "^3.3.3"
   },
   "devDependencies": {
     "cross-env": "^5.1.6"
